@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 <hi align="center">Hi there, I am Md Abu Nayeb Towki 👋</h1>
 
 - 🔭 I’m currently studying in Computer Science at <a href="https://www.brunel.ac.uk/" target="_blank">Brunel University London</a>
-- 💬 Ask me about <strong>Python, Java, HTML, CSS, JS, React JS</strong>
-- 🌱 I’m currently learning <strong>Backend Development & Network Penetration Testing</strong>
+- 💬 Ask me about <strong>Java, HTML, CSS, JS</strong>
+- 🌱 I’m currently learning <strong>MySQL and Node JS Development</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/nayebtowki/" target="_blank">Nayeb Towki</a>
 
 <p align="center">
