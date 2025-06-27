@@ -1,21 +1,39 @@
-<!---
-nayebtowki/nayebtowki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<hi align="center">Hi there, I am Md Abu Nayeb Towki 👋</h1>
+# 👋 Hi, I'm Md Abu Nayeb Towki
 
-- 🔭 I’m currently studying in Computer Science at <a href="https://www.brunel.ac.uk/" target="_blank">Brunel University London</a>
-- 💬 Ask me about <strong>Java, HTML, CSS, JS</strong>
-- 🌱 I’m currently learning <strong>MySQL and Node JS Development</strong>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/nayebtowki/" target="_blank">Nayeb Towki</a>
+🎓 Recent Computer Science graduate from Brunel University London  
+💻 Aspiring AI Engineer | Full Stack Developer | Open to AI, Software, and DevOps Roles  
+📍 London, UK | 🌐 [Portfolio](https://nayebtowki.github.io/my-portfolio-software)
 
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=nayebtowki&show_icons=true" alt="nayebtowki">
-</p>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nayebtowki/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/towki98" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
-</p>
+### 💡 About Me
+I enjoy building smart, efficient solutions that bridge AI and software engineering.  
+Currently diving deeper into **AI/ML**, scripting, and **cloud fundamentals (AWS)**.  
+My core stack includes **React**, **Node.js**, **Python**, **JavaScript**, and **MongoDB/MySQL**.
+
+---
+
+### 🚀 Current Focus
+- 🤖 Building ML models with Python, Scikit-learn, and NLP (AI vs Human Text Classifier)
+- 🌐 Developing full-stack apps with React, Express.js, and Node.js
+- ☁️ Learning AWS Cloud Practitioner & CI/CD pipelines
+- 📈 Exploring automation and DevOps tools
+
+---
+
+### 📌 Featured Projects
+- 🔁 [Currency Converter (Python)](https://github.com/nayebtowki/currency-converter-python)
+- 🧠 [AI Text Classifier](https://github.com/nayebtowki/ai-detector-ui)
+- 🔢 [Scientific Calculator (Java GUI)](https://github.com/nayebtowki/ScientificCalculatorWithGUI)
+- ✅ [React Task Tracker](https://github.com/nayebtowki/react-task-tracker)
+
+---
+
+### 🧰 Tech Stack
+`Python` | `JavaScript` | `React` | `Node.js` | `MongoDB` | `MySQL`  
+`Git & GitHub` | `VS Code` | `JIRA` | `Linux (Basics)` | `CI/CD (Basics)`
+
+---
+
+### 📫 Let’s Connect
+- 🌐 [Portfolio](https://nayebtowki.github.io/my-portfolio-software)
