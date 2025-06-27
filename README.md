@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md Abu Nayeb Towki
+# Hi, I'm Md Abu Nayeb Towki
 
 🎓 Recent Computer Science graduate from Brunel University London  
 💻 Aspiring AI Engineer | Full Stack Developer | Open to AI, Software, and DevOps Roles  
